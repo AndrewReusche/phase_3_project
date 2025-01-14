@@ -6,15 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
-*.DS_Store
-*.ipynb_checkpoints
+
+
 
 ignore_these/
 
-.DS_Store
-*.db
-*.tsv
-*.csv
+
 
 
 
@@ -90,7 +87,7 @@ docs/_build/
 target/
 
 # Jupyter Notebook
-.ipynb_checkpoints
+
 
 # IPython
 profile_default/
