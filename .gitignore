@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+.DS_Store
+.ipynb_checkpoints
+
 ignore_these/
 
 .DS_Store
