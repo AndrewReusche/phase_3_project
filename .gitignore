@@ -12,7 +12,8 @@ __pycache__/
 ignore_these/
 
 
-
+.DS_Store
+.ipynb_checkpoints
 
 
 
